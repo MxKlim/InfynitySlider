@@ -1,0 +1,36 @@
+.a{
+	width: 100px;
+	height: 100px;
+	border: 1px solid #000;
+	background-color: #c5c5c5;
+	text-align: center;
+	line-height: 100px;
+	float: right;
+
+}
+.container{
+	width: 100px;
+	margin: 50px auto;
+	border: 2px solid #0000ff;
+}
+.wraper{
+	width: 500px;
+	transition: left 1s easy;
+	display: flex;
+	position: relative;
+	left: 0;
+	top: 0;
+}
+
+
+.but{
+	display: inline-block;
+	width: 100px;
+	height: 20px;
+	color: red;
+	line-height: 14px;
+	font-size: 14px;
+	padding: 0%;
+	text-align: center;
+
+}
