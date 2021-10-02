@@ -15,10 +15,10 @@
 }
 .wraper{
 	width: 500px;
-	transition: left 1s easy;
+	transition: left 1s;
 	display: flex;
 	position: relative;
-	left: 0;
+	left: -100px;
 	top: 0;
 }
 
